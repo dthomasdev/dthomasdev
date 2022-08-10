@@ -1,3 +1,4 @@
 ### Hello, I'm Dan
 
-### I'm a developer from Sheffield, UK. 
+### I'm a husband, father and developer based in Sheffield, UK.
+
