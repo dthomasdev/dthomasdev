@@ -1,3 +1,3 @@
-## Hello, I'm Dan - aka [dthomasdev](danthomas.website)
+### Hello, I'm Dan
 
 ### I'm a developer from Sheffield, UK. 
